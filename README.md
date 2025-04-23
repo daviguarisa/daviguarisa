@@ -5,7 +5,7 @@
 
 👩‍💻 Cursando Análise e Desenvolvimento de Sistemas.
 
-🧠 Focado em me tornar um Cientista de Dados.
+🧠 Focado em me tornar um Engenheiro de Dados.
 
 ⚡️ Atualmente estudando análise de dados com Python.
 
