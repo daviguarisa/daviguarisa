@@ -3,11 +3,11 @@
 
 ## Sobre mim
 
-👩‍💻 Cursando Análise e Desenvolvimento de Sistemas.
+👩‍💻 Cursando Análise e Desenvolvimento de Sistemas
 
-🧠 Focado em me tornar um Engenheiro de Dados.
+🧠 Focado em me tornar um Engenheiro de Dados
 
-⚡️ Atualmente estudando análise de dados com Python.
+⚡️ Atualmente estudando os fundamentos de Data Engineering
 
 📫 Outras formas de me encontrar:
     
